@@ -2,6 +2,8 @@
 //Declare a variable called 'name' that has the value of your name.
 
 /*code here*/
+var name = ["John"]
+console.log(name)
 
 //#2
 //create an if statement that checks to see if your name is equal to 'Ben'
